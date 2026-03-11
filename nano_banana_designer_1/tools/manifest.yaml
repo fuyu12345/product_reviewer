@@ -1,0 +1,3 @@
+builtin_tools:
+  - generate_image
+custom_tools: []
