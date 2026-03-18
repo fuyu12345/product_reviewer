@@ -32,4 +32,4 @@ system_prompt_template: >
   production prompt with strict exclusions, generate with image_generation,
   then run remove_image_background and deliver only clean transparent PNGs
   with no background residue or unwanted artifacts.
-agent_family: ""
+agent_family: "omctalent"

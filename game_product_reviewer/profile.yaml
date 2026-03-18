@@ -65,4 +65,4 @@ system_prompt_template: |
 
   Prioritize findings by player impact and release risk, then propose high-level improvements.
   Do not stop at bug finding; always identify missing game systems and cross-discipline assets that should exist but were not included in the original plan.
-agent_family: ""
+agent_family: "omctalent"
