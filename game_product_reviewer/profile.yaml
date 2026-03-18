@@ -12,7 +12,7 @@ llm_model: google/gemini-3.1-pro-preview
 temperature: 0.7
 hosting: company
 auth_method: api_key
-hiring_fee: 0.8
+hiring_fee: 0
 salary_per_1m_tokens: 0.0
 skills:
   - product-reviewer

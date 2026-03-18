@@ -13,7 +13,7 @@ llm_model: google/gemini-3.1-pro-preview
 image_model: google/gemini-3-pro-image-preview
 temperature: 0.4
 hiring_fee: 0.0
-salary_per_1m_tokens: 2.0
+salary_per_1m_tokens: 0.0
 skills:
   - art_direction_briefing
   - character_concept_design
