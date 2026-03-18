@@ -1,0 +1,4 @@
+builtin_tools:
+  - image_generation
+  - remove_image_background
+custom_tools: []
